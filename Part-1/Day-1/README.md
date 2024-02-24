@@ -36,7 +36,7 @@
 
 > A platform is the hardware or software environment in which a program runs.
 
-**4.Secure🔐 **
+**4.Secure🔐**
 > Java is best known for its Security. With Java, we can develop virus-free systems, Java is secured because:
 - No explicit Pointers
 - Java Programs run inside a **Virtual Machine Sandbox**.
