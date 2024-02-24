@@ -5,6 +5,8 @@
 - In this directory, I'm gonna tell you about the Java Programming Language from Scratch.
 
 # Let's Begin!🚀
+![java](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/bfe57789-d365-4556-bc31-e9d3dfa31692)
+
 
 ### What is JAVA?
 
