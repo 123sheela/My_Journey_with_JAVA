@@ -8,7 +8,7 @@
 
  - At runtime, the following steps are performed
 
-   <!-- image -->
+  ![Runtime](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/bc3b9f7a-6fef-4098-9751-84a70e21457a)
 
 ## Let's learn about the JVM, JRE and JDK
 
@@ -16,8 +16,7 @@
 
  > **JVM ( Java Virtual Machine)** is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment.
 
- <!-- image -->
-
+![JVM](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/06e08a3e-4ee2-48d6-bbc5-7fa4241f46ab)
 
  - In this above image, the bytecode output of a java compiler is not executable code. 
  - Java compiler translates the **java source code into the byte code**, not the executable file. 
