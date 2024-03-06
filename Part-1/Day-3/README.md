@@ -33,16 +33,16 @@
 
 # Explanation
 
-> class - It is a Keyword used to declare a class in Java. This class should be declared with a Name.
+> **class** - It is a Keyword used to declare a class in Java. This class should be declared with a Name.
 > 
-> public  - Access Modifier (public means accessible from any other class).
+> **public**  - Access Modifier (public means accessible from any other class).
 > 
-> static  - If we declare any method as static, there is no need to create an object to invoke the static method.
+> **static**  - If we declare any method as static, there is no need to create an object to invoke the static method.
 >
-> void - It is the Return type of the method. It means it doesn't return any value.
+> **void** - It is the Return type of the method. It means it doesn't return any value.
 >
-> main - It represents the Entry point of the program
+> **main** - It represents the Entry point of the program
 >
-> String[ ] args / String args[ ] - Used for command line arguments.
+> **String[ ] args / String args[ ]** - Used for command line arguments.
 >
-> System.out.println() - It is used to print the statement. Here, System is a class, out is an object of the PrintStream class, println() is a method od the PrintStream class.
+> **System.out.println()** - It is used to print the statement. Here, System is a class, out is an object of the PrintStream class, println() is a method od the PrintStream class.
