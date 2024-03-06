@@ -116,6 +116,6 @@
      
 
  ## Here is the output for this program
- ![dataotpt](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/8ac40887-1d94-48ed-b021-e92facb775d2)
+   ![dataotpt](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/8ac40887-1d94-48ed-b021-e92facb775d2)
 
 ## Happy Learning💫
