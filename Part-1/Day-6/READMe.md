@@ -1,6 +1,6 @@
 # Java Learning - Day 6
 
-## Welcome to this Day-6 directory!
+## Welcome to this Day-6 directory!🚀
 
 > In this directory, I'm gonna share about the data types in Java.
 
@@ -79,41 +79,43 @@
 
     ###  Example program for Data types 
 
-   ``` bash
-  public class DataTypesExample 
-  {
-    public static void main(String[] args) 
-    {
-        // Primitive datatypes
-        byte myByte = 10;
-        short myShort = 100;
-        int myInt = 1000;
-        long myLong = 1000000L;
-        float myFloat = 3.14f;
-        double myDouble = 3.14159;
-        char myChar = 'A';
-        boolean myBoolean = true;
+      ``` bash
+      public class DataTypesExample 
+      {
+         public static void main(String[] args) 
+        {
+             // Primitive datatypes
+            byte myByte = 10;
+            short myShort = 100;
+            int myInt = 1000;
+            long myLong = 1000000L;
+            float myFloat = 3.14f;
+            double myDouble = 3.14159;
+            char myChar = 'A';
+            boolean myBoolean = true;
         
-        // Reference datatype
-        String myString = "Hello, Java!";
+            // Reference datatype
+            String myString = "Hello, Java!";
         
-        // To print Output
-        System.out.println("Primitive Datatypes:");
-        System.out.println("byte: " + myByte);
-        System.out.println("short: " + myShort);
-        System.out.println("int: " + myInt);
-        System.out.println("long: " + myLong);
-        System.out.println("float: " + myFloat);
-        System.out.println("double: " + myDouble);
-        System.out.println("char: " + myChar);
-        System.out.println("boolean: " + myBoolean);
+           // To print Output
+           System.out.println("Primitive Datatypes:");
+           System.out.println("byte: " + myByte);
+           System.out.println("short: " + myShort);
+           System.out.println("int: " + myInt);
+           System.out.println("long: " + myLong);
+           System.out.println("float: " + myFloat);
+           System.out.println("double: " + myDouble);
+           System.out.println("char: " + myChar);
+           System.out.println("boolean: " + myBoolean);
         
-        System.out.println("\nReference Datatype:");
-        System.out.println("String: " + myString);
-     }
-  }
-
- //You can copy this code and run it in your IDE to see the results for further clarification
-
+           System.out.println("\nReference Datatype:");
+           System.out.println("String: " + myString);
+         }
+       }
+     //You can copy this code and run it in your IDE to see the results for further clarification
+     
 
  ## Here is the output for this program
+ ![dataotpt](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/8ac40887-1d94-48ed-b021-e92facb775d2)
+
+## Happy Learning💫
