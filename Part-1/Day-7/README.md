@@ -2,7 +2,7 @@
 
 ## Welcome to this Day-7 directory!
 
->  In this directory, I wanna share about the **Type Casting ** in java
+>  In this directory, I wanna share about the **Type Casting** in java
 
 ## Type Casting 
 
