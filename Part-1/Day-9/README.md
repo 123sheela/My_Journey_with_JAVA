@@ -132,7 +132,7 @@ Operators in Java are the symbols used for performing specific operations in Jav
   </tr>
 </table>
 
-### Here is the program for the Operations 
+### Here is the program for the Operators Mentioned above
 
     public class OperatorsExample {
       public static void main(String[] args) {
