@@ -214,5 +214,5 @@ Operators in Java are the symbols used for performing specific operations in Jav
         
         System.out.println("Left Shift: " + leftShift);
         System.out.println("Right Shift: " + rightShift);
+      }
     }
-}
