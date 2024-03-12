@@ -10,13 +10,12 @@
 - Java has two types of casting:
     - **Implicit Casting (Widening Conversion)**
     - **Explicit Casting (Narrowing Conversion)**
-  
-  ## 1.Implicit Casting (Widening Conversion)
+
+## 1.Implicit Casting (Widening Conversion)
   > Implicit casting is converting a **Smaller data type to a Larger data type.**
   >
   >  byte -> short -> char -> int -> long -> float -> double
        
-   ```bash
         public class Main 
        {
          public static void main(String[] args) 
@@ -35,7 +34,6 @@
 >
 > double -> float -> long -> int -> char -> short -> byte
 
-   ```bash
         public class Main 
        {
          public static void main(String[] args) 
