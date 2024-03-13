@@ -8,7 +8,7 @@
 
 In Java, the jump statements are used to transfer the control of the program to the specific statements. In other words, jump statements transfer the control to the next statement outside a loop or switch statement.
 
-These two are the jumping statements in java.
+These two are the jump statements in java.
 - break
 - continue
 
@@ -50,3 +50,4 @@ In java, the continue statement doesn't break the loop, whereas it skips the spe
      }
 
 // Here is the output for this program using Jump statements.
+![Jump](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/ff6ef875-ded5-4b0a-8215-1cf419d8c54f)
