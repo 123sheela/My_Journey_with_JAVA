@@ -58,4 +58,7 @@ The do-while loop checks the condition at the end of the loop after executing th
       while(condition);
 
 
-<!-- Here You can see the output image for the looping statement in java program. Do check the file named Loop.java for source code -->
+// Here You can see the output image for the looping statement in java program. Do check the file named Loop.java for source code
+
+![loop](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/95a6dc10-6e38-4c3b-bb1c-59d7c942abd1)
+
