@@ -47,19 +47,21 @@ A single-dimensional array in Java is a type of array that stores elements of th
 ## Sample program 
 
      import java.util.*;
-      public class Array {
-        public static void main(String[] args) {
-
-        // Declare and initialize an array of integers
-        int[] numbers = new int[5];
-        System.out.println("The arrays are:");
-        for (int i = 0; i < numbers.length; i++) 
+      public class Array 
+      {
+        public static void main(String[] args) 
         {
+            // Declare and initialize an array of integers
+            int[] numbers = new int[5];
+            System.out.println("The arrays are:");
+           for (int i = 0; i < numbers.length; i++) 
+           {
               numbers[i]=i+1;
               System.out.println( numbers[i]);
+           }
         }
-
-    }
-}
+     }
 
 // Here is the output for the Array program
+
+![array](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/3a4148f4-cca1-4a4d-acf0-0feea1a00c05)
