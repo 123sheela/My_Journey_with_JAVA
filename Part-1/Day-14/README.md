@@ -33,3 +33,6 @@ For example:
             }
         }
      }
+// Here is the output image for this program
+
+![multi-dime](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/54f28305-f226-4ba8-999c-75d2937b39ce)
