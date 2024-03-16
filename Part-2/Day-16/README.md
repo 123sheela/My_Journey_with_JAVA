@@ -44,3 +44,10 @@ For Example:
          System.out.println(myObj.a);
         }
     }
+
+## Sample program using class and object
+![objects](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/32f7ff2f-7bd4-4264-8dd0-9eddb95f31f5)
+
+#### Output
+![output](https://github.com/123sheela/My_Journey_with_JAVA/assets/91262191/5ea03e10-df34-4e6e-86d4-c21a65486069)
+
